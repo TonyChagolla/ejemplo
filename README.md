@@ -39,4 +39,4 @@ protocolo://nombre-del-host:puerto/ruta-y-nombre-de-archivo
 ```
 
 Hay 4 partes en un URL
-⋅⋅⋅ 1. *Protocolo*: El protocolo de nivel de aplicación usado por el cliente y servidor, ej., HTTP, FTP, y telnet.
+	1. *Protocolo*: El protocolo de nivel de aplicación usado por el cliente y servidor, ej., HTTP, FTP, y telnet.
