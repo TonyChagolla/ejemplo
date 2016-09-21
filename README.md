@@ -778,16 +778,16 @@ El siguiente es un ejemplo de un formulario HTML, el cual es producido por el si
 ![form alt](https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/images/HTML_SampleForm.png)
 
 Un formulario contiene campos. Los tipos de campos incluyen:
-* Text Box: producido por *<input type="text">*.
-* Password Boc: producido por *<input type="password">*.
-* Radio Button: producido por *<input type="radio">*.
-* Checkbox: producido por *<input type="checkbox">*.
-* Selection: producido por *<select> y <option>*.
-* Text Area: producido por *<textarea>*.
-* Submit Button: producido por *<input type="submit">*.
-* Reset Button: producido por *<input type="reset">*.
-* Hidden Field: producido por *<input type="hidden">*.
-* Button: producido por *<input type="button">*.
+* Text Box: producido por <*input type="text"*>*.
+* Password Boc: producido por <*input type="password"*>.
+* Radio Button: producido por *<input type="radio"*>.
+* Checkbox: producido por *<input type="checkbox"*>.
+* Selection: producido por <*select*> y <*option*>.
+* Text Area: producido por <*textarea*>.
+* Submit Button: producido por <*input type="submit"*>.
+* Reset Button: producido por <*input type="reset"*>.
+* Hidden Field: producido por <*input type="hidden"*>.
+* Button: producido por <*input type="button"*>.
 
 Cada campo tiene un nombre y puede tomar un valor especifico. Una ves que el cliente llena los campos y presiona el botón enviar, el navegador reúne cada uno de los nombre y valores de los campos, los empaquetar en pares "name=value", y contenta todos los campos usando "&" como separador de campo. A esto se le conoce como cadena de consulta. Enviará la cadena de consulta al servidor como parte de la solicitud.
 ```
